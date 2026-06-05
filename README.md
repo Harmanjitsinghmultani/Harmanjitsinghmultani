@@ -14,7 +14,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 - 💼 Software Engineer specialising in **Java, Spring Boot, Microservices, and Cloud-Native systems**
 - ☁️ Multi-cloud certified across **AWS, Microsoft Azure, and Google Cloud**
