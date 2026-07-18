@@ -104,19 +104,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Harmanjitsinghmultani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Harmanjitsinghmultani&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harmanjitsinghmultani&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
----
-
 <p align="center">
   <a href="https://www.linkedin.com/in/harmanjit-singh-multani-374b461ba/">
     <img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
