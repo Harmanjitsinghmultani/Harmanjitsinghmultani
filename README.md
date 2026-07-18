@@ -10,6 +10,9 @@
   <a href="mailto:harmanjeet.multani@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://scholar.google.com/citations?user=6V9EfyAAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -18,9 +21,25 @@
 
 - 💼 Software Engineer specialising in **Java, Spring Boot, Microservices, and Cloud-Native systems**
 - ☁️ Multi-cloud certified across **AWS, Microsoft Azure, and Google Cloud**
-- 🤖 Building AI-driven backend systems with **YOLO11, Grad-CAM, and Explainable AI**
+- 🩺 Researching **explainable AI for medical imaging** — YOLO11, Grad-CAM, clinical deployment frameworks
 - 🌱 Currently exploring: **distributed systems, medical imaging AI, and CI/CD automation**
 - 📫 **harmanjeet.multani@gmail.com**
+
+---
+
+## 🔬 Research
+
+### 🧬 [Skin Disease Detection with Explainability using YOLO11 and Grad-CAM](https://github.com/Harmanjitsinghmultani/skin-lesion-yolo11n)
+> Eight-class dermoscopic skin lesion classification on ISIC 2019, with Grad-CAM explainability and a confidence-threshold clinical triage framework
+- **Result:** 82.26% Top-1 / 99.64% Top-5 accuracy, 1.54M parameters
+- 📄 **Accepted for oral presentation, IEEE ICEC2NT 2026** (Paper ID 2725) — to be indexed in IEEE Xplore, Ei Compendex, Scopus
+- **Stack:** Python, PyTorch, Ultralytics YOLO11, Grad-CAM
+
+### 🧠 [Brain Tumor Identification and Diagnosis using YOLO11n](https://github.com/Harmanjitsinghmultani/brain-tumor-yolo11n)
+> Four-class brain tumor MRI classification (glioma, meningioma, pituitary, no tumor), with Grad-CAM explainability and full statistical validation
+- **Result:** 93.69% Top-1 / 100% Top-5 accuracy, Cohen's Kappa 0.9158, MCC 0.9173
+- 📄 **Under peer review, IEEE ICITEICS 2026** (Paper ID 510)
+- **Stack:** Python, PyTorch, Ultralytics YOLO11, Grad-CAM
 
 ---
 
@@ -71,24 +90,27 @@
 
 ## 🚀 Featured Projects
 
-### ⚡ [AgileFlow — AI-Driven Project Management](https://github.com/Harmanjitsinghmultani)
-> AI-powered sprint planning, risk detection, and team analytics platform
-- **Stack:** Next.js · Node.js · PostgreSQL · AI/ML
-- 🏛️ Government of India Copyright Registered
-
-### 🔧 [NexusHealer — AI Self-Healing CI/CD](https://github.com/Harmanjitsinghmultani)
-> Autonomous fault remediation: Detect → Fix → Validate → Approve
-- **Stack:** Python · Cloud-Native · CI/CD Tooling
+### 🔧 [NexusHealer — Autonomous CI/CD Fault Remediation Engine](https://github.com/Harmanjitsinghmultani/NexusHealer)
+> Detects, analyzes, and resolves software deployment failures autonomously: Detect → Fix → Validate → Approve
+- **Stack:** Java 17, SQL, React
+- 🏛️ Government of India Copyright Application Filed (Diary No. SW-18703/2026-CO)
 - ⚡ Reduces MTTR from hours to under 5 minutes
 
-### 🏥 [MediLink — Hospital Management System](https://github.com/Harmanjitsinghmultani)
+### ⚡ AgileFlow — AI-Driven Project Management
+> AI-powered sprint planning, risk detection, and team analytics platform
+- **Stack:** Next.js · Node.js · PostgreSQL · AI/ML
+- 🏛️ Government of India Copyright Registered (Certificate No. LD-20250169590)
+- *(repository coming soon)*
+
+### 🏥 MediLink — Hospital Management System
 > Distributed microservices-based hospital platform
 - **Stack:** Spring Boot · Eureka · API Gateway · React · MySQL
+- *(repository coming soon)*
 
 ### 🎓 [RIAS — Response Insight Analysis System](https://github.com/Harmanjitsinghmultani/RIAS)
 > Educational feedback and faculty analytics platform
 - **Stack:** React.js · Node.js · MongoDB · JWT
-- 🥇 Best Project of the Year
+- 🥇 Best Project of the Year, G.H. Raisoni College of Engineering
 
 ---
 
